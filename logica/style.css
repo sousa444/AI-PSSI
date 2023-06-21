@@ -1,0 +1,24 @@
+h1{
+color:blanchedalmond
+backgroud-color:calc()
+}
+h2{
+color: blue;
+background-color: rgb(77, 17, 156);
+
+
+}
+p{
+color: rgb(69, 58, 214);
+background-color:tomato;
+
+}
+body{
+background-color:rgb(148, 42, 197)
+}
+#container{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
